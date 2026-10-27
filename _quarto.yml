@@ -15,7 +15,7 @@ website:
       - courses.qmd
       - projects.qmd
     right:
-      - href: "https://github.com/aung-pp/aungpyaepaing.github.io"
+      - href: ""
         text: "GitHub"
         icon: github
 
