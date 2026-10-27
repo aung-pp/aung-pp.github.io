@@ -3,13 +3,21 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/APP_Photo.jpg
   title: "Aung Pyae Paing"
   navbar:
+    background: deepskyblue
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - courses.qmd
       - projects.qmd
+    right:
+      - href: "https://github.com/aung-pp/aungpyaepaing.github.io"
+        text: "GitHub"
+        icon: github
 
 format:
   html:
