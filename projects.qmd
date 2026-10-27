@@ -1,0 +1,9 @@
+---
+title: "Projects"
+format: html
+---
+
+## [World Happiness 2021 Dashboard](https://datasciencefinalproject-aungpyaepaing.streamlit.app/)
+
+- Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data. Built as the final course completion project for the Data Science Essentials certificate course at Parami University.
+

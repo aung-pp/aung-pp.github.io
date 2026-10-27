@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_web"
+  title: "Aung Pyae Paing"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - courses.qmd
+      - projects.qmd
 
 format:
   html:

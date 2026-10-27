@@ -1,11 +1,18 @@
 ---
-title: "personal_web"
+title: "AUNG PYAE PAING"
+about:
+  template: jolla
+  image: images/APP_Photo.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/aungpyaepaing
 ---
 
-This is a Quarto website.
+Monitoring and Evaluation, Data Analysis
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Master , School | yyyy
+
+Bachelor, University | yyyy

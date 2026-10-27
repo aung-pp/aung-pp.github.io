@@ -1,0 +1,11 @@
+---
+title: "Courses"
+---
+
+## Master Courses
+
+- Quantitative Method
+
+## Bachelor Courses
+
+- Community Health
