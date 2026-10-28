@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data. Built as the final course completion project for the Data Science Essentials certificate course at Parami University."
+    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
   },
   {
     "objectID": "projects.html#world-happiness-2021-dashboard",
     "href": "projects.html#world-happiness-2021-dashboard",
     "title": "Projects",
     "section": "",
-    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data. Built as the final course completion project for the Data Science Essentials certificate course at Parami University."
+    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
   },
   {
     "objectID": "courses.html",
@@ -46,6 +46,6 @@
     "href": "index.html#education",
     "title": "AUNG PYAE PAING",
     "section": "Education",
-    "text": "Education\nMaster , School | yyyy\nBachelor, University | yyyy"
+    "text": "Education\nMaster, School | yyyy\nBachelor, University | yyyy"
   }
 ]
