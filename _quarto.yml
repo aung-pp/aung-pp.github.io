@@ -16,7 +16,7 @@ website:
         icon: house-door-fill
       - courses.qmd
       - projects.qmd
-      - Research.qmd
+      - research.qmd
     right:
       - href: ""
         text: "GitHub"
