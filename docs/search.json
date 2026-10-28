@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AUNG PYAE PAING",
+    "section": "",
+    "text": "Monitoring and Evaluation, Data Analysis"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "AUNG PYAE PAING",
+    "section": "Education",
+    "text": "Education\nMaster, School | yyyy\nBachelor of Community Health, University of Community Health | 2015"
+  },
+  {
+    "objectID": "index.html#website-visitors",
+    "href": "index.html#website-visitors",
+    "title": "AUNG PYAE PAING",
+    "section": "Website Visitors",
+    "text": "Website Visitors\nThank you for visiting!"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Quantitative Method"
+  },
+  {
+    "objectID": "courses.html#master-courses",
+    "href": "courses.html#master-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "Quantitative Method"
+  },
+  {
+    "objectID": "courses.html#bachelor-courses",
+    "href": "courses.html#bachelor-courses",
+    "title": "Courses",
+    "section": "Bachelor Courses",
+    "text": "Bachelor Courses\n\nCommunity Health"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
+  },
+  {
+    "objectID": "projects.html#world-happiness-2021-dashboard",
+    "href": "projects.html#world-happiness-2021-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
+  }
+]
