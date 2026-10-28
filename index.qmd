@@ -13,15 +13,14 @@ Monitoring and Evaluation, Data Analysis
 
 ## Education
 
-Master, School | yyyy
+Master, School \| yyyy
 
-Bachelor, University | yyyy
-
-
+Bachelor of Community Health, [University of Community Health](https://www.uch.gov.mm/) \| 2015
 
 ## Website Visitors
 
 Thank you for visiting!
 
+```{=html}
 <script src="https://www.stats4u.net/s4u.js" data-id="4459264606" data-style="2001" async></script>
-
+```
