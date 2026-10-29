@@ -17,6 +17,7 @@ website:
       - courses.qmd
       - projects.qmd
       - research.qmd
+      - cv.qmd
     right:
       - href: ""
         text: "GitHub"
