@@ -25,10 +25,11 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [flatly, brand]
+      dark: [darkly, brand]
     css: styles.css
     toc: true
+    respect-user-color-scheme: true
 
 
 
