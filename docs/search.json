@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "World Happiness 2021 Dashboard\n\n\n\nPython\n\nDashboard\n\n\n\nDeveloped an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data.\n\n\n\nDec 14, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Welcome to my professional CV.\nOpen CV in Browser"
+  },
+  {
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certificates",
+    "section": "",
+    "text": "This page highlights my professional training and the key skills I have developed through each course."
+  },
+  {
+    "objectID": "certificates.html#google-data-analytics-professional",
+    "href": "certificates.html#google-data-analytics-professional",
+    "title": "Certificates",
+    "section": "Google Data Analytics Professional",
+    "text": "Google Data Analytics Professional\nIssuing Organization: Coursera\nDate Obtained: October, 2023\nKey Learning Areas:\n\nData processing, analysis, and visualization using Excel, SQL, R, and Tableau"
+  },
+  {
+    "objectID": "certificates.html#data-science-essentials",
+    "href": "certificates.html#data-science-essentials",
+    "title": "Certificates",
+    "section": "Data Science Essentials",
+    "text": "Data Science Essentials\nIssuing Organization: Parami University\nDate Obtained: December, 2025\nKey Learning Areas:\n\nData processing, analysis and visualization using Python"
+  },
+  {
+    "objectID": "certificates.html#meal-in-program-design-and-project-cycle-management-advanced-level",
+    "href": "certificates.html#meal-in-program-design-and-project-cycle-management-advanced-level",
+    "title": "Certificates",
+    "section": "MEAL in Program Design and Project Cycle Management (Advanced Level)",
+    "text": "MEAL in Program Design and Project Cycle Management (Advanced Level)\nIssuing Organization: Astute Learning\nDate Obtained: July, 2026\nKey Learning Areas:\n\nDesigning Theory of Change (ToC) and logic models using if‑then‑because statements.\nTranslating ToC into Results Frameworks and Logframes.\nDeveloping SMART indicators and setting targets.\nDesigning comprehensive MEAL plans.\nApplying Monitoring, Evaluation, Accountability and Learning techniques effectively throughout project and program implementation."
+  },
+  {
+    "objectID": "consultancy/consultancy.html",
+    "href": "consultancy/consultancy.html",
+    "title": "Consultancy",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Role\n      \n      \n        Mission\n      \n      \n        Scope of Work\n      \n      \n        Duration\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nRole\n\n\n\nMission\n\n\n\nScope of Work\n\n\n\nDuration\n\n\n\n\n\n\n\n\nWorkshop Facilitator/ Team Member\n\n\nMEAL Guideline Development\n\n\n(1) Assist the workshop facilitation for MEAL guideline development. (2) Organize discussion notes in workshop and integrate into the MEAL guideline template (approximately for 5 CSOs).\n\n\nFrom 2025-07-20 to 2025-07-31\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AUNG PYAE PAING",
@@ -12,40 +61,5 @@
     "title": "AUNG PYAE PAING",
     "section": "",
     "text": "Master of Development Policy | KDI School of Public Policy and Management | 2024\nBachelor of Community Health | University of Community Health | 2015"
-  },
-  {
-    "objectID": "certificates.html",
-    "href": "certificates.html",
-    "title": "Certificates",
-    "section": "",
-    "text": "This page highlights my professional training and the key skills I have developed through each course.\n\n\nIssuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]\n\n\n\n\n\nIssuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
-  },
-  {
-    "objectID": "certificates.html#certificate-1-course-name",
-    "href": "certificates.html#certificate-1-course-name",
-    "title": "Certificates",
-    "section": "",
-    "text": "Issuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
-  },
-  {
-    "objectID": "certificates.html#certificate-2-course-name",
-    "href": "certificates.html#certificate-2-course-name",
-    "title": "Certificates",
-    "section": "",
-    "text": "Issuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Welcome to my professional CV.\nDownload My CV (PDF)\nOpen CV in Browser"
-  },
-  {
-    "objectID": "projects/projects.html",
-    "href": "projects/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "World Happiness 2021 Dashboard\n\n\n\nPython\n\nDashboard\n\n\n\nDeveloped an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data.\n\n\n\nDec 14, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]

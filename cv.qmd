@@ -5,7 +5,4 @@ format: html
 
 Welcome to my professional CV.
 
-
-[Download My CV (PDF)](cv/cv_aung_pyae_paing.pdf){target="_blank"}
-
 [Open CV in Browser](cv/cv_aung_pyae_paing.pdf){target="_blank"}

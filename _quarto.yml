@@ -16,7 +16,7 @@ website:
       - cv.qmd
       - certificates.qmd
       - projects/projects.qmd
-      - research.qmd
+      - consultancy/consultancy.qmd
     right:
       - href: ""
         text: "GitHub"

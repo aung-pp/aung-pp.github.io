@@ -2,33 +2,42 @@
 title: "Certificates"
 ---
 
-# My Certificates
+This page highlights my professional training and the key skills I have developed through each course.
 
-This page highlights my professional training and
-the key skills I have developed through each course.
+## Google Data Analytics Professional
 
-## Certificate 1 — [Course Name]
+**Issuing Organization:** Coursera
 
-**Issuing Organization:** [Organization Name]
-
-**Date Obtained:** [Month, Year]
+**Date Obtained:** October, 2023
 
 **Key Learning Areas:**
 
-- [Main topic or skill 1]
-- [Main topic or skill 2]
-- [Main topic or skill 3]
+- Data processing, analysis, and visualization using Excel, SQL, R, and Tableau
 
----
+------------------------------------------------------------------------
 
-## Certificate 2 — [Course Name]
+## Data Science Essentials
 
-**Issuing Organization:** [Organization Name]
+**Issuing Organization:** [Parami University](https://www.parami.edu.mm/){target="_blank"}
 
-**Date Obtained:** [Month, Year]
+**Date Obtained:** December, 2025
 
 **Key Learning Areas:**
 
-- [Main topic or skill 1]
-- [Main topic or skill 2]
-- [Main topic or skill 3]
+- Data processing, analysis and visualization using Python
+
+------------------------------------------------------------------------
+
+## MEAL in Program Design and Project Cycle Management (Advanced Level)
+
+**Issuing Organization:** [Astute Learning](https://www.astuteassist.com/home)
+
+**Date Obtained:** July, 2026
+
+**Key Learning Areas:**
+
+- Designing Theory of Change (ToC) and logic models using if‑then‑because statements.
+- Translating ToC into Results Frameworks and Logframes.
+- Developing SMART indicators and setting targets.
+- Designing comprehensive MEAL plans.
+- Applying Monitoring, Evaluation, Accountability and Learning techniques effectively throughout project and program implementation.

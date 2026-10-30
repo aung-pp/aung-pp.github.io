@@ -1,0 +1,12 @@
+---
+title: "Consultancy"
+listing:
+  contents: consultancy.yml
+  type: table
+  field-display-names:
+    role: "Role"
+    mission: "Mission"
+    scope_of_work: "Scope of Work"
+    duration: "Duration"
+---
+
