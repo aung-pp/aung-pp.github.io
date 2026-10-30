@@ -13,10 +13,10 @@ website:
       - href: index.qmd
         text: " "
         icon: house-door-fill
-      - courses.qmd
-      - projects.qmd
-      - research.qmd
       - cv.qmd
+      - certificates.qmd
+      - projects/projects.qmd
+      - research.qmd
     right:
       - href: ""
         text: "GitHub"
@@ -24,7 +24,8 @@ website:
 
 format:
   html:
-    backgroundcolor: "#F7F4F0"
+    mainfont: "Inter"
+    fontsize: 20px
     css: styles.css
     toc: false
     respect-user-color-scheme: true

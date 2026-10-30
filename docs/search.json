@@ -14,23 +14,23 @@
     "text": "Master of Development Policy | KDI School of Public Policy and Management | 2024\nBachelor of Community Health | University of Community Health | 2015"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
+    "objectID": "certificates.html",
+    "href": "certificates.html",
+    "title": "Certificates",
     "section": "",
     "text": "Quantitative Method"
   },
   {
-    "objectID": "courses.html#master-courses",
-    "href": "courses.html#master-courses",
-    "title": "Courses",
+    "objectID": "certificates.html#master-courses",
+    "href": "certificates.html#master-courses",
+    "title": "Certificates",
     "section": "",
     "text": "Quantitative Method"
   },
   {
-    "objectID": "courses.html#bachelor-courses",
-    "href": "courses.html#bachelor-courses",
-    "title": "Courses",
+    "objectID": "certificates.html#bachelor-courses",
+    "href": "certificates.html#bachelor-courses",
+    "title": "Certificates",
     "section": "Bachelor Courses",
     "text": "Bachelor Courses\n\nCommunity Health"
   },
@@ -49,17 +49,10 @@
     "text": "Welcome to my professional CV.\nDownload My CV (PDF)\nOpen CV in Browser"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
-  },
-  {
-    "objectID": "projects.html#world-happiness-2021-dashboard",
-    "href": "projects.html#world-happiness-2021-dashboard",
-    "title": "Projects",
-    "section": "",
-    "text": "Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data."
+    "text": "World Happiness 2021 Dashboard\n\n\n\nPython\n\nDashboard\n\n\n\nDeveloped an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data.\n\n\n\nDec 14, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
