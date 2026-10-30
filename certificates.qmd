@@ -2,10 +2,33 @@
 title: "Certificates"
 ---
 
-## Master Courses
+# My Certificates
 
-- Quantitative Method
+This page highlights my professional training and
+the key skills I have developed through each course.
 
-## Bachelor Courses
+## Certificate 1 — [Course Name]
 
-- Community Health
+**Issuing Organization:** [Organization Name]
+
+**Date Obtained:** [Month, Year]
+
+**Key Learning Areas:**
+
+- [Main topic or skill 1]
+- [Main topic or skill 2]
+- [Main topic or skill 3]
+
+---
+
+## Certificate 2 — [Course Name]
+
+**Issuing Organization:** [Organization Name]
+
+**Date Obtained:** [Month, Year]
+
+**Key Learning Areas:**
+
+- [Main topic or skill 1]
+- [Main topic or skill 2]
+- [Main topic or skill 3]

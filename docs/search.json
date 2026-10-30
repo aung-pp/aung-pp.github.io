@@ -18,32 +18,25 @@
     "href": "certificates.html",
     "title": "Certificates",
     "section": "",
-    "text": "Quantitative Method"
+    "text": "This page highlights my professional training and the key skills I have developed through each course.\n\n\nIssuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]\n\n\n\n\n\nIssuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
   },
   {
-    "objectID": "certificates.html#master-courses",
-    "href": "certificates.html#master-courses",
+    "objectID": "certificates.html#certificate-1-course-name",
+    "href": "certificates.html#certificate-1-course-name",
     "title": "Certificates",
     "section": "",
-    "text": "Quantitative Method"
+    "text": "Issuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
   },
   {
-    "objectID": "certificates.html#bachelor-courses",
-    "href": "certificates.html#bachelor-courses",
+    "objectID": "certificates.html#certificate-2-course-name",
+    "href": "certificates.html#certificate-2-course-name",
     "title": "Certificates",
-    "section": "Bachelor Courses",
-    "text": "Bachelor Courses\n\nCommunity Health"
+    "section": "",
+    "text": "Issuing Organization: [Organization Name]\nDate Obtained: [Month, Year]\nKey Learning Areas:\n\n[Main topic or skill 1]\n[Main topic or skill 2]\n[Main topic or skill 3]"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Welcome to my professional CV.\nDownload My CV (PDF)\nOpen CV in Browser"
-  },
-  {
-    "objectID": "cv.html#curriculum-vitae",
-    "href": "cv.html#curriculum-vitae",
     "title": "CV",
     "section": "",
     "text": "Welcome to my professional CV.\nDownload My CV (PDF)\nOpen CV in Browser"
@@ -54,5 +47,12 @@
     "title": "Projects",
     "section": "",
     "text": "World Happiness 2021 Dashboard\n\n\n\nPython\n\nDashboard\n\n\n\nDeveloped an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data.\n\n\n\nDec 14, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "Welcome to my professional CV.\nDownload My CV (PDF)\nOpen CV in Browser"
   }
 ]
