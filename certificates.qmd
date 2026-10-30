@@ -4,7 +4,9 @@ title: "Certificates"
 
 This page highlights my professional training and the key skills I have developed through each course.
 
-## ![](cerrtificate/AungPyaePaing_MEAL.pdf)
+## Google Data Analytics
+
+![](cerrtificate/google_data_analytics.jpg)
 
 **Issuing Organization:** Coursera
 
@@ -18,6 +20,8 @@ This page highlights my professional training and the key skills I have develope
 
 ## Data Science Essentials
 
+![](cerrtificate/data_science_essentials.png)
+
 **Issuing Organization:** [Parami University](https://www.parami.edu.mm/){target="_blank"}
 
 **Date Obtained:** December, 2025
@@ -29,6 +33,8 @@ This page highlights my professional training and the key skills I have develope
 ------------------------------------------------------------------------
 
 ## MEAL in Program Design and Project Cycle Management (Advanced Level)
+
+![](cerrtificate/meal.jpg)
 
 **Issuing Organization:** [Astute Learning](https://www.astuteassist.com/home)
 
