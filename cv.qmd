@@ -7,4 +7,6 @@ Updated: 2026 October 30
 
 Welcome to my professional CV.
 
+![](cv/cv_app.pdf)
+
 [Open CV in Browser](cv/cv_app.pdf){target="_blank"}
