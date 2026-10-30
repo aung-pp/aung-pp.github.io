@@ -8,7 +8,6 @@ website:
     *Built with [Quarto](https://quarto.org)*
   title: "Aung Pyae Paing"
   navbar:
-    background: cornflowerblue
     search: true
     left:
       - href: index.qmd
@@ -25,9 +24,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [flatly, brand]
-      dark: [darkly, brand]
+    backgroundcolor: "#F7F4F0"
     css: styles.css
     toc: false
     respect-user-color-scheme: true

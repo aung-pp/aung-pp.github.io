@@ -12,7 +12,6 @@ about:
       href: https://github.com/aungpyaepaing
 ---
 
-Monitoring and Evaluation, Data Analysis
 
 ## Education
 

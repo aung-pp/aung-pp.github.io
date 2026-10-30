@@ -1,1 +1,31 @@
 /* Optional fonts for English and Myanmar */
+/* Main website background and text */
+body {
+  background-color: #F7F4F0 !important;
+  color: #252329;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #252329 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .quarto-search-button {
+  color: #F7F4F0 !important;
+}
+
+/* Navigation hover */
+.navbar .nav-link:hover {
+  color: #D9A0A4 !important;
+}
+
+/* Links and highlights */
+a {
+  color: #A9444D;
+}
+
+a:hover {
+  color: #85343D;
+}
