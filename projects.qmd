@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-## [World Happiness 2021 Dashboard](https://datasciencefinalproject-aungpyaepaing.streamlit.app/)
+## [World Happiness 2021 Dashboard](https://datasciencefinalproject-aungpyaepaing.streamlit.app/){target="_blank"}
 
 - Developed an interactive Python dashboard using Streamlit to analyze the 2021 World Happiness data.
 

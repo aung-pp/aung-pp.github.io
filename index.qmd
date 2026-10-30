@@ -1,9 +1,10 @@
 ---
 title: "AUNG PYAE PAING"
+subtitle: "Monitoring & Evaluation | Data Analysis"
 page-layout: full
 lightbox: true
 about:
-  template: jolla
+  template: trestles
   image: images/APP_Photo.jpg
   links:
     - icon: github
@@ -15,6 +16,6 @@ Monitoring and Evaluation, Data Analysis
 
 ## Education
 
-Master of Development Policy, [KDI School of Public Policy and Management](https://www.kdischool.ac.kr/) \| 2024
+Master of Development Policy | [KDI School of Public Policy and Management](https://www.kdischool.ac.kr/) \| 2024
 
-Bachelor of Community Health, [University of Community Health](https://www.uch.gov.mm/) \| 2015
+Bachelor of Community Health | [University of Community Health](https://www.uch.gov.mm/) \| 2015
