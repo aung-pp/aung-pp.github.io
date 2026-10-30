@@ -3,6 +3,8 @@ title: "CV"
 format: html
 ---
 
+Updated: 2026 October 30
+
 Welcome to my professional CV.
 
 [Open CV in Browser](cv/cv_aung_pyae_paing.pdf){target="_blank"}
